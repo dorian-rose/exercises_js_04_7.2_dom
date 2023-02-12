@@ -1,0 +1,10 @@
+.oculto {
+  display: none;
+}
+.visible {
+  display: inline;
+  color: purple;
+}
+#oculto {
+  display: none;
+}
